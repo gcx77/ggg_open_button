@@ -31,6 +31,7 @@ button_info_t button_group[] =
 
 int main(void)
 {
+    /*TEST */
 }
 button_hitcnt_et button_status_get(uint32_t button_group_index)
 {
